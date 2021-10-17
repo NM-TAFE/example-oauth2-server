@@ -1,3 +1,4 @@
 Flask
+Flask-CORS
 Flask-SQLAlchemy
-Authlib==0.14.3
+Authlib==0.15.4
